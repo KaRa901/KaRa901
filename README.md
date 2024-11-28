@@ -1,7 +1,5 @@
 Passionate in Financial Analysis & Data Science, Ethics of AI. Detective for layovers and patterns in data structures.
-                                             
-                
-                                                       Hi I am Kara👋
+Hi I am Kara [kara901.github.io](kara901.github.io)
 
             My portfolio website: [kara901](kara901.github.io)
 
