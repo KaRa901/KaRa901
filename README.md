@@ -1,4 +1,13 @@
-## Hi there 👋
+Passionate in Financial Analysis & Data Science, Ethics of AI. Detective for layovers and patterns in data structures.
+                                             
+                
+                                                       Hi I am Kara👋
+
+            My portfolio website: kara901.github.io 
+
+                                                       
+
+
 
 <!--
 **KaRa901/KaRa901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +23,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
