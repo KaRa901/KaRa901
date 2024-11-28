@@ -1,4 +1,6 @@
-Passionate in Financial Analysis & Data Science, Ethics of AI. Detective for layovers and patterns in data structures.
+<p align="center">
+            Passionate Financial Analyst & Data Scientist, Ethics of AI. Detective for layovers and patterns in data structures.
+</p>
 <p align="center">
             Hi I am Kara👋
 </p>
