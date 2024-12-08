@@ -1,5 +1,5 @@
 <p align="center">
-            Passionate Financial Analyst & Data Scientist, Ethics of AI. Detective for layovers and patterns in data structures.
+            Passionate Data & Financial Analyst, Ethics of AI. Detective for layovers and patterns in data structures.
 </p>
 <p align="center">
             Hi I am Kara👋
