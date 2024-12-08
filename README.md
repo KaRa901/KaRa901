@@ -6,7 +6,7 @@
 </p>
 
 - 💬 Ask me about: Ethics of AI
-- 🌎 Portfolio Website: [kara901.github.com](kara901.github.com)
+- 🌎 Portfolio Website: [kara901.github.io](kara901.github.io)
 - 🎩 Download Short CV
 - ⭐️ Tableau Public Portfolio
 - 🌱 Continously learning: Machine Learning | Learning for fun: Quantum Field Theory
