@@ -5,6 +5,12 @@
             Hi I am Kara👋
 </p>
 
+- 💬 Ask me about: Ethics of AI
+- 🌎 Portfolio Website: [kara901.github.com](kara901.github.com)
+- 🎩 Download Short CV
+- ⭐️ Tableau Public Portfolio
+- 🌱 Continously learning: Machine Learning, Learning for fun: Quantum Field Theory
+- 🐳 Must read book: [Seeing with Fresh Eyes: Meaning, Space, Data, Truth - Edward R. Tufte](https://www.amazon.com/-/de/dp/1930824009/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=X5AL34MNGBL7&dib=eyJ2IjoiMSJ9.X7C5PfyLjyjM4Hx6gDXVfTSKmrgmxNOi8i0MgKsqq8DGjHj071QN20LucGBJIEps.4hGTxkr7T7JqA6z1RiSiGtW6c3iEcJ-R0vgLnuQaIZ4&dib_tag=se&keywords=Seeing+with+Fresh+Eyes%3A+Meaning%2C+Space%2C+Data%2C+Truth&qid=1733687121&sprefix=seeing+with+fresh+eyes+meaning%2C+space%2C+data%2C+truth%2Caps%2C261&sr=8-1)
 
 
                                                        
